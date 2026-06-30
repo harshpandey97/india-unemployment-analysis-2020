@@ -25,24 +25,20 @@ Analyze how unemployment varied across Indian states and regions in 2020, identi
 ## Visualizations
 
 ### 1. National Unemployment Trend (Jan–Nov 2020)
-![National Trend](chart1_national_trend.png)
+ 
 *Unemployment rate spiked sharply in April–May 2020 following the nationwide lockdown, before gradually recovering through Q3–Q4.*
 
 ### 2. State-wise Unemployment Comparison
-![State Comparison](chart2_state_comparison.png)
-*Haryana and Tripura recorded the highest average unemployment rates, while Meghalaya, Assam, and Gujarat remained relatively stable.*
+ *Haryana and Tripura recorded the highest average unemployment rates, while Meghalaya, Assam, and Gujarat remained relatively stable.*
 
 ### 3. Zone-wise Unemployment Comparison
-![Zone Comparison](chart3_zone_comparison.png)
-*The North zone was hit hardest on average, while the West zone showed the fastest recovery trajectory.*
+ *The North zone was hit hardest on average, while the West zone showed the fastest recovery trajectory.*
 
 ### 4. Correlation: Labour Participation Rate vs Unemployment Rate
-![Correlation](chart4_correlation.png)
-*Weak correlation (-0.07) indicates the unemployment spike was driven by forced closures (supply shock), not a drop in workforce participation.*
+ *Weak correlation (-0.07) indicates the unemployment spike was driven by forced closures (supply shock), not a drop in workforce participation.*
 
 ### 5. State-wise Unemployment Heatmap
-![Heatmap](chart5_heatmap.png)
-*Heatmap visualization highlighting the intensity and spread of unemployment across states over the 11-month period.*
+ *Heatmap visualization highlighting the intensity and spread of unemployment across states over the 11-month period.*
 
 ## Files
 - `analysis.py` — full Python EDA and chart generation script
