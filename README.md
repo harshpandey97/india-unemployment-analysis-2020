@@ -1,3 +1,9 @@
+
+india-unemployment-analysis-2020
+
+
+
+
 India Unemployment Rate Analysis (2020)
 End-to-end data analysis project examining state-wise and zone-wise unemployment trends in India during 2020, with a focus on the COVID-19 lockdown impact.
 
